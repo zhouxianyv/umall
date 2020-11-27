@@ -1,0 +1,41 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font: 14px/1.5 "Microsoft YaHei", "Times New RoMan";
+    background-color: #fff;
+}
+
+img {
+    vertical-align: middle;
+}
+
+em,
+i,
+strong,
+b {
+    font-style: normal;
+    font-weight: 400;
+}
+
+ul,ol{
+    list-style: none;
+}
+
+input,
+textarea,
+button {
+    border: none;
+    outline: none;
+}
+
+table{
+    border-collapse: collapse;
+}
+
+a{
+    text-decoration: none;
+}
